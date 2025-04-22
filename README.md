@@ -13,7 +13,7 @@ pghcrime2024.csv
 
 Neighborhoods_.geojson: orginal map avaiable on https://data.wprdc.org/dataset/pittsburgh-neighborhoods
 
-SO I CAN MAKE Choropleth Maps using Follium  & Geopandas & 
+To make Choropleth Maps using Follium  & Geopandas & 
 
 
 
