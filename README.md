@@ -13,16 +13,16 @@ pghcrime2024.csv
 
 Neighborhoods_.geojson: orginal map avaiable on https://data.wprdc.org/dataset/pittsburgh-neighborhoods
 
-To make Choropleth Maps using Follium  & Geopandas & 
-
-
+To make Choropleth Maps using Follium  & Geopandas 
 
 neighborhoods_with_crime_data.geojson : for the map I use that just combines the neighborhood geoson with the crime
-
 
 neighborhoods_with_crime.geojson: another map , same thing 
 
 
 
 A one sentence overview of your repository, meant for someone who is not familiar with the project:
+
 Data Analysis of "Best" neighborhood in pittsburgh 
+
+Description: Analyzing 3 data sets involving the enviroment, traffic, and crime to determine what exactly is the best neighbrohood in Pittsburgh. We use graphs and charts to visualize the data. 
